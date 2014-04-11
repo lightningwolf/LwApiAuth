@@ -10,7 +10,7 @@ AWS like authentication for API Authentication Clients and Servers.
 Usage
 -----
 
-Basic Client usage for AmazonS3:
+Basic Client usage for AmazonS3 and other AWS Api:
 
 ::
 
